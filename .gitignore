@@ -1,3 +1,5 @@
 node_modules
-.svelte-kit
 .env
+.svelte-kit/output
+.svelte-kit/generated
+.svelte-kit/types
