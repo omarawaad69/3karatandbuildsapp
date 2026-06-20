@@ -1,0 +1,7 @@
+name = "realestate"
+compatibility_date = "2023-07-25"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "realestate-db"
+database_id = "ضع-هنا-الـ-id-الخاص-بقاعدتك"  # ستغيره بعد إنشاء قاعدة D1
